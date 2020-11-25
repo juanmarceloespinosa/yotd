@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\bin\Debug\netcoreapp3.1\YOTD.Models.deps.json
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\bin\Debug\netcoreapp3.1\YOTD.Models.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\bin\Debug\netcoreapp3.1\YOTD.Models.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.csprojAssemblyReference.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Models\obj\Debug\netcoreapp3.1\YOTD.Models.pdb

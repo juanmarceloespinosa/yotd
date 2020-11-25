@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
+        "projectName": "YOTD.DataAccess",
+        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj",
+        "projectName": "YOTD.Models",
+        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
+        "projectName": "YOTD.Services.Contracts",
+        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
+        "projectName": "YOTD.Services.Implementation",
+        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj",
+        "projectName": "YOTD.WebApi",
+        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
+              },
+              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.AssemblyInfo.cs
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Services.Implementation.deps.json
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Services.Implementation.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Services.Implementation.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.DataAccess.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Models.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Services.Contracts.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Models.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.DataAccess.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\bin\Debug\netstandard2.1\YOTD.Services.Contracts.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.csproj.CopyComplete
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Implementation\obj\Debug\netstandard2.1\YOTD.Services.Implementation.pdb

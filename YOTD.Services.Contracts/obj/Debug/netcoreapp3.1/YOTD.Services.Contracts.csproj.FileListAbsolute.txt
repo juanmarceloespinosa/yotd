@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\bin\Debug\netcoreapp3.1\YOTD.Services.Contracts.deps.json
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\bin\Debug\netcoreapp3.1\YOTD.Services.Contracts.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\bin\Debug\netcoreapp3.1\YOTD.Services.Contracts.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\bin\Debug\netcoreapp3.1\YOTD.Models.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\bin\Debug\netcoreapp3.1\YOTD.Models.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.AssemblyInfo.cs
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.csproj.CopyComplete
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.Services.Contracts\obj\Debug\netcoreapp3.1\YOTD.Services.Contracts.pdb

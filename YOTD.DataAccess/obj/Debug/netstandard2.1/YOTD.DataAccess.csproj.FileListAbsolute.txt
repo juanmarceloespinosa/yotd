@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.csprojAssemblyReference.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.AssemblyInfo.cs
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\bin\Debug\netstandard2.1\YOTD.DataAccess.deps.json
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\bin\Debug\netstandard2.1\YOTD.DataAccess.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\bin\Debug\netstandard2.1\YOTD.DataAccess.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\bin\Debug\netstandard2.1\YOTD.Models.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\bin\Debug\netstandard2.1\YOTD.Models.pdb
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.csproj.CopyComplete
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.dll
+C:\Users\user\Desktop\code\YodaOfTheDay\YOTD.DataAccess\obj\Debug\netstandard2.1\YOTD.DataAccess.pdb
