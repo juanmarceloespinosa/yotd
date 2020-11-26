@@ -10,20 +10,33 @@ An sample solution to quickly prepare a software developer in RESTful Services u
 3. [Installation](#installation)
 
 Prerequisites
+
   .NET Core 3 SDK
   Visual Studio Code
+  
 Visual Studio Code Extensions
+
   C#
   .NET Core Test Explorer
   vscode-solution-explorer
+  
 .NET CLI Basic Commands
+
 Install nuget packages
+
   dotnet restore
+  
 Compiling the project (inside the folder containing the .csproj)
+
   dotnet build
+  
 Run the project (inside the folder containing the .csproj)
+
   dotnet run 
+  
 Run the test project (inside the folder containing the tests project)
+
   dotnet test
+  
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
