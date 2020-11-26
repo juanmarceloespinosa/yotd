@@ -40,3 +40,5 @@ A sample solution to quickly prepare a software developer in REST Services using
 ~~~
   dotnet test
 ~~~
+### Swagger URL
+https://localhost:5001/swagger/index.html
