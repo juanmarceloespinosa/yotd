@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj": {}
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.WebApi\\YOTD.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
         "projectName": "YOTD.DataAccess",
-        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj",
         "projectName": "YOTD.Models",
-        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
         "projectName": "YOTD.Services.Contracts",
-        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,8 +143,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj"
               }
             }
           }
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
         "projectName": "YOTD.Services.Implementation",
-        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -197,14 +197,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
               },
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj"
               },
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
               }
             }
           }
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj": {
+    "C:\\Users\\user\\Desktop\\yotd\\YOTD.WebApi\\YOTD.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\yotd\\YOTD.WebApi\\YOTD.WebApi.csproj",
         "projectName": "YOTD.WebApi",
-        "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\YOTD.WebApi.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.WebApi\\YOTD.WebApi.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -257,17 +257,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.DataAccess\\YOTD.DataAccess.csproj"
               },
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Models\\YOTD.Models.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Models\\YOTD.Models.csproj"
               },
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Contracts\\YOTD.Services.Contracts.csproj"
               },
-              "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\code\\YodaOfTheDay\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj"
+              "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\yotd\\YOTD.Services.Implementation\\YOTD.Services.Implementation.csproj"
               }
             }
           }
