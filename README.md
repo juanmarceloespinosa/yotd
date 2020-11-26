@@ -20,21 +20,21 @@ A sample solution to quickly prepare a software developer in RESTful Services us
   
 *  vscode-solution-explorer
 
-### .NET CLI Basic Commands
+## .NET CLI Basic Commands
 
-## Install nuget packages
+### Install nuget packages
 ~~~
   dotnet restore
 ~~~
-## Compiling the project (inside the folder containing the .csproj)
+### Compiling the project (inside the folder containing the .csproj)
 ~~~
   dotnet build
 ~~~
-## Run the project (inside the folder containing the .csproj)
+### Run the project (inside the folder containing the .csproj)
 ~~~
   dotnet run 
 ~~~
-## Run the test project (inside the folder containing the tests project)
+### Run the test project (inside the folder containing the tests project)
 ~~~
   dotnet test
 ~~~
