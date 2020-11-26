@@ -2,7 +2,8 @@
 1. [General Info](#general-info)
 
 YODA Of The Day
-A set of (not so) motivational quotes carefully curated by Master Yoda.
+
+It's a set of (not so) motivational quotes carefully curated by Master Yoda.
 An sample solution to quickly prepare a software developer in RESTful Services using .NET Core for the Backend and React + Redux on the Frontend.
 
 2. [Technologies](#technologies)
