@@ -1,7 +1,7 @@
 ## YODA Of The Day #
 
 It's a set of (not so) motivational quotes carefully curated by Master Yoda.
-An sample solution to quickly prepare a software developer in RESTful Services using .NET Core for the Backend and React + Redux on the Frontend.
+A sample solution to quickly prepare a software developer in RESTful Services using .NET Core for the Backend and React + Redux on the Frontend.
 
 ### Table of Contents
 * 1. [General Info](#general-info)
