@@ -6,6 +6,8 @@ namespace YOTD.Services.Contracts
     public interface IQuoteService
     {
         Quote Get();
+        List<Quote> GetAll();
+        Quote GetRandom();
         Quote GetByDate(DateTime day);
         List<Quote> GetByWeek(DateTime firstDay, DateTime secondDay);
     }
