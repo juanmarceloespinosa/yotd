@@ -5,16 +5,20 @@ A sample solution to quickly prepare a software developer in RESTful Services us
 
 ## Technologies
   Microsoft .NET Core 3.1
+  
 ## Prerequisites
 
-  .NET Core 3.1 SDK
-  Visual Studio Code
+*  .NET Core 3.1 SDK
+  
+*  Visual Studio Code
   
 ## Visual Studio Code Extensions
 
-  C#
-  .NET Core Test Explorer
-  vscode-solution-explorer
+*  C#
+  
+*  .NET Core Test Explorer
+  
+*  vscode-solution-explorer
  ~~~
 .NET CLI Basic Commands
 
