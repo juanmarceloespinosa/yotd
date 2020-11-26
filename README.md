@@ -3,16 +3,11 @@
 It's a set of (not so) motivational quotes carefully curated by Master Yoda.
 A sample solution to quickly prepare a software developer in RESTful Services using .NET Core for the Backend and React + Redux on the Frontend.
 
-## Table of Contents
-* 1. [General Info](#general-info)
-
-* 2. [Technologies](#technologies)
-
-* 3. [Installation](#installation)
-
+## Technologies
+  Microsoft .NET Core 3.1
 ## Prerequisites
 
-  .NET Core 3 SDK
+  .NET Core 3.1 SDK
   Visual Studio Code
   
 ## Visual Studio Code Extensions
