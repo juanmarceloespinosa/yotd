@@ -24,6 +24,17 @@ namespace YOTD.Services.Implementation
             return _repository.Find(x => x.Date.Equals(day)).FirstOrDefault();
         }
 
+        public Quote GetRandom()
+        {
+            Random rnd = new Random();
+            int r = rnd.Next(_repository.GetAll().ToList().Count);
+            return _repository.GetAll().ToList()[r];
+        }
+
+        public List<Quote> GetAll()
+        {
+            return _repository.GetAll().ToList();
+        }
         public List<Quote> GetByWeek(DateTime firstDay, DateTime secondDay)
         {
             return _repository.Find(x => x.Date >= firstDay && x.Date <= secondDay)
