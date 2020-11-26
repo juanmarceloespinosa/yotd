@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using YOTD.DataAccess;
 using YOTD.Services.Contracts;
 using YOTD.Services.Implementation;
+using Microsoft.OpenApi.Models;
 
 namespace YOTD.WebApi
 {
@@ -35,6 +36,13 @@ namespace YOTD.WebApi
 
             // services.AddScoped<DbContext, QuoteDbContext>();
             // services.AddScoped<IQuoteService, QuoteService>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddTransient<IQuoteService, QuoteService>();
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+            });
 
             services.AddControllers();
         }
@@ -48,6 +56,14 @@ namespace YOTD.WebApi
             }
 
             app.UseHttpsRedirection();
+
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
+            app.UseSwagger();
+
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
 
             app.UseRouting();
 
