@@ -35,9 +35,21 @@ namespace YOTD.Services.Implementation
         {
             return _repository.GetAll().ToList();
         }
-        public List<Quote> GetByWeek(DateTime firstDay, DateTime secondDay)
+        public List<Quote> GetByWeek()
         {
-            return _repository.Find(x => x.Date >= firstDay && x.Date <= secondDay)
+            DateTime firstDay;
+            DateTime lastDay;
+            var culture = System.Threading.Thread.CurrentThread.CurrentCulture;
+            var diff = DateTime.Now.DayOfWeek - culture.DateTimeFormat.FirstDayOfWeek;
+
+            if (diff < 0)
+            {
+                diff += 7;
+            }
+            firstDay = DateTime.Now.AddDays(-diff).Date;
+            lastDay = firstDay.AddDays(6);
+            
+            return _repository.Find(x => x.Date >= firstDay && x.Date <= lastDay)
                                 .ToList();
         }
     }

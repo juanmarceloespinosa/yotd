@@ -1,12 +1,8 @@
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using YOTD.Models;
 using YOTD.Services.Contracts;
-
 
 namespace YOTD.WebApi.Controllers
 {
@@ -45,17 +41,7 @@ namespace YOTD.WebApi.Controllers
         [Route("week")]
         public IEnumerable<Quote> GetWeekQuotes()
         {
-            var culture = System.Threading.Thread.CurrentThread.CurrentCulture;
-            var diff = DateTime.Now.DayOfWeek - culture.DateTimeFormat.FirstDayOfWeek;
-
-            if (diff < 0)
-            {
-                diff += 7;
-            }
-            var firstDay = DateTime.Now.AddDays(-diff).Date;
-            var lastDay = firstDay.AddDays(6);
-
-            return this._quoteService.GetByWeek(firstDay, lastDay);
+            return this._quoteService.GetByWeek();
         }
 
         [HttpGet]

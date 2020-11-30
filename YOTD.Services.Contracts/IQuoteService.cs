@@ -9,6 +9,6 @@ namespace YOTD.Services.Contracts
         List<Quote> GetAll();
         Quote GetRandom();
         Quote GetByDate(DateTime day);
-        List<Quote> GetByWeek(DateTime firstDay, DateTime secondDay);
+        List<Quote> GetByWeek();
     }
 }

@@ -1,16 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using YOTD.DataAccess;
 using YOTD.Services.Contracts;
 using YOTD.Services.Implementation;
@@ -26,16 +19,28 @@ namespace YOTD.WebApi
         }
 
         public IConfiguration Configuration { get; }
+        public string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";        
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+                
+
+           services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                builder =>
+                                {
+                                    builder.WithOrigins("http://localhost",
+                                                        "https://localhost");
+                                });
+            });
+
+
             services.AddDbContext<QuoteDbContext>(options =>
             options.UseSqlite(Configuration.GetConnectionString("QuoteDbContext"),
             b => b.MigrationsAssembly("YOTD.WebApi")));
 
-            // services.AddScoped<DbContext, QuoteDbContext>();
-            // services.AddScoped<IQuoteService, QuoteService>();
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddTransient<IQuoteService, QuoteService>();
 
@@ -67,11 +72,13 @@ namespace YOTD.WebApi
 
             app.UseRouting();
 
+            app.UseCors();
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapControllers().RequireCors(MyAllowSpecificOrigins);;
             });
         }
     }
